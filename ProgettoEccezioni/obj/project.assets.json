@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\gundu\\Desktop\\NET\\CSharp\\myApp\\myApp.csproj",
-      "projectName": "myApp",
-      "projectPath": "c:\\Users\\gundu\\Desktop\\NET\\CSharp\\myApp\\myApp.csproj",
+      "projectUniqueName": "C:\\Users\\gundu\\Desktop\\NET\\CSharp\\ProgettoEccezioni\\ProgettoEccezioni.csproj",
+      "projectName": "ProgettoEccezioni",
+      "projectPath": "C:\\Users\\gundu\\Desktop\\NET\\CSharp\\ProgettoEccezioni\\ProgettoEccezioni.csproj",
       "packagesPath": "C:\\Users\\gundu\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\gundu\\Desktop\\NET\\CSharp\\myApp\\obj\\",
+      "outputPath": "C:\\Users\\gundu\\Desktop\\NET\\CSharp\\ProgettoEccezioni\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

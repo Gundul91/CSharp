@@ -1,0 +1,11 @@
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEccezioni\obj\Debug\netcoreapp2.1\ProgettoEccezioni.csprojAssemblyReference.cache
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEccezioni\obj\Debug\netcoreapp2.1\ProgettoEccezioni.csproj.CoreCompileInputs.cache
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEccezioni\obj\Debug\netcoreapp2.1\ProgettoEccezioni.AssemblyInfoInputs.cache
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEccezioni\obj\Debug\netcoreapp2.1\ProgettoEccezioni.AssemblyInfo.cs
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEccezioni\bin\Debug\netcoreapp2.1\ProgettoEccezioni.deps.json
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEccezioni\bin\Debug\netcoreapp2.1\ProgettoEccezioni.runtimeconfig.json
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEccezioni\bin\Debug\netcoreapp2.1\ProgettoEccezioni.runtimeconfig.dev.json
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEccezioni\bin\Debug\netcoreapp2.1\ProgettoEccezioni.dll
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEccezioni\bin\Debug\netcoreapp2.1\ProgettoEccezioni.pdb
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEccezioni\obj\Debug\netcoreapp2.1\ProgettoEccezioni.dll
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEccezioni\obj\Debug\netcoreapp2.1\ProgettoEccezioni.pdb
