@@ -1,0 +1,11 @@
+C:\Users\gundu\Desktop\NET\CSharp\Esercizio\bin\Debug\netcoreapp2.1\Esercizio.deps.json
+C:\Users\gundu\Desktop\NET\CSharp\Esercizio\bin\Debug\netcoreapp2.1\Esercizio.runtimeconfig.json
+C:\Users\gundu\Desktop\NET\CSharp\Esercizio\bin\Debug\netcoreapp2.1\Esercizio.runtimeconfig.dev.json
+C:\Users\gundu\Desktop\NET\CSharp\Esercizio\bin\Debug\netcoreapp2.1\Esercizio.dll
+C:\Users\gundu\Desktop\NET\CSharp\Esercizio\bin\Debug\netcoreapp2.1\Esercizio.pdb
+C:\Users\gundu\Desktop\NET\CSharp\Esercizio\obj\Debug\netcoreapp2.1\Esercizio.csprojAssemblyReference.cache
+C:\Users\gundu\Desktop\NET\CSharp\Esercizio\obj\Debug\netcoreapp2.1\Esercizio.csproj.CoreCompileInputs.cache
+C:\Users\gundu\Desktop\NET\CSharp\Esercizio\obj\Debug\netcoreapp2.1\Esercizio.AssemblyInfoInputs.cache
+C:\Users\gundu\Desktop\NET\CSharp\Esercizio\obj\Debug\netcoreapp2.1\Esercizio.AssemblyInfo.cs
+C:\Users\gundu\Desktop\NET\CSharp\Esercizio\obj\Debug\netcoreapp2.1\Esercizio.dll
+C:\Users\gundu\Desktop\NET\CSharp\Esercizio\obj\Debug\netcoreapp2.1\Esercizio.pdb
