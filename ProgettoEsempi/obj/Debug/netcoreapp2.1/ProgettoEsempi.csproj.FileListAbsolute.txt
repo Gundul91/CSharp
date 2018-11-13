@@ -1,0 +1,11 @@
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEsempi\bin\Debug\netcoreapp2.1\ProgettoEsempi.deps.json
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEsempi\bin\Debug\netcoreapp2.1\ProgettoEsempi.runtimeconfig.json
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEsempi\bin\Debug\netcoreapp2.1\ProgettoEsempi.runtimeconfig.dev.json
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEsempi\bin\Debug\netcoreapp2.1\ProgettoEsempi.dll
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEsempi\bin\Debug\netcoreapp2.1\ProgettoEsempi.pdb
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEsempi\obj\Debug\netcoreapp2.1\ProgettoEsempi.csprojAssemblyReference.cache
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEsempi\obj\Debug\netcoreapp2.1\ProgettoEsempi.csproj.CoreCompileInputs.cache
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEsempi\obj\Debug\netcoreapp2.1\ProgettoEsempi.AssemblyInfoInputs.cache
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEsempi\obj\Debug\netcoreapp2.1\ProgettoEsempi.AssemblyInfo.cs
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEsempi\obj\Debug\netcoreapp2.1\ProgettoEsempi.dll
+C:\Users\gundu\Desktop\NET\CSharp\ProgettoEsempi\obj\Debug\netcoreapp2.1\ProgettoEsempi.pdb
